@@ -1,6 +1,6 @@
 package app
 
-import "/controllers"
+import "controllers"
 
 //every GET request against "/ping" will be handled by Ping function
 func mapUrls() {
